@@ -7,7 +7,7 @@ import time
 pygame.init()
 
 # Constants
-WIDTH, HEIGHT = 600, 600
+WIDTH, HEIGHT = 600, 800
 LINE_WIDTH = 15
 BOARD_ROWS, BOARD_COLS = 3, 3
 SQUARE_SIZE = WIDTH // BOARD_COLS
