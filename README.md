@@ -2,6 +2,8 @@
 
 A Python implementation of the classic Tic-Tac-Toe game using Pygame.
 
+![Tic Tac Toe](<May 22, 2025, 10_52_52 AM.png>)
+
 ## Created with Amazon Q CLI
 
 This entire game was created using Amazon Q CLI without writing any code manually. The complete implementation was generated through natural language prompts, demonstrating the power of AI-assisted development.
@@ -58,4 +60,7 @@ This project showcases how complex applications can be built using AI:
 
 ## Screenshots
 
-[Game screenshots would be placed here]
+![Tic-Tac-toe](./assets/First.png)
+![Tic-Tac-toe](./assets/Second.png)
+![Tic-Tac-toe](./assets/Third.png)
+
